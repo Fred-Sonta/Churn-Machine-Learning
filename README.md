@@ -46,6 +46,3 @@ Help businesses:
 - Reduce customer acquisition costs
 - Improve customer lifetime value
 
-## 📄 License
-
-MIT
